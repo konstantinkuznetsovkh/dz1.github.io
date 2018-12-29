@@ -1,0 +1,21 @@
+/* Example */ 
+/* @font-face {
+    font-family: 'Corbel';
+    src: url('../fonts/Corbel.eot');
+    src: url('../fonts/Corbel.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Corbel.woff') format('woff'),
+         url('../fonts/Corbel.ttf') format('truetype'),
+         url('../fonts/Corbel.svg#Corbel') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+*/
+@font-face {
+			font-family: "BarkentinaRegular";
+			src: url("../fonts/BarkentinaRegular.eot");
+			src: url("../fonts/BarkentinaRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/BarkentinaRegular.woff") format("woff"),
+			url("../fonts/BarkentinaRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
